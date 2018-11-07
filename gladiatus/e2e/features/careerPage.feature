@@ -7,7 +7,8 @@ Feature: EPAM job searching
     Given the career page is opened
     Then the logo should be visible
     
-  # Your steps here...    
+  # Your steps here...  
+  # new line 
 
     Examples:
       | Country | City     | Department                | PositionName              |
