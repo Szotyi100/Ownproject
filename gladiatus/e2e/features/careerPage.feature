@@ -11,4 +11,4 @@ Feature: EPAM job searching
 
     Examples:
       | Country | City     | Department                | PositionName              |
-      | Hungary | Debrecen | Software Test Engineering | Test Automation Engineer  |
+      | Hungary | Budapest | Software Test Engineering | Test Automation Engineer  |
